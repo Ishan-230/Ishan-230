@@ -1,4 +1,4 @@
-name: GitHub Pac-Man Animation
+name: GitHub Snake Game
 
 on:
   # Schedule the workflow to run daily at midnight UTC
@@ -18,17 +18,17 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
-      # Step 2: Generate the Pac-Man animations
-      - name: Generate GitHub Contributions Pac-Man Animations
-        uses: username/pacman-animation-action@v1
+      # Step 2: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
         with:
           # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
           # Define the output files and their configurations
           outputs: |
-            dist/github-pacman.svg
-            dist/github-pacman-dark.svg?palette=github-dark
-            dist/ocean-pacman.gif?color_pacman=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
@@ -39,4 +39,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           # Optionally, you can set a custom commit message
-          commit_message: "Update Pac-Man animation [skip ci]"
+          commit_message: "Update snake animation [skip ci]" 
