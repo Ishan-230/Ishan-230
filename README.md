@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ishan Joshi!
 
-**🌩️ Cloud Computing Specialist | 🔐 Cybersecurity Enthusiast | 💻 IT Support Specialist**
+**🌩️ Cloud Computing Specialist | 🔐 Cybersecurity Enthusiast | 💻 Developer**
 
 ![Welcome](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
