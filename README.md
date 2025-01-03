@@ -88,8 +88,8 @@ Feel free to reach out if you'd like to discuss tech, projects, or collaboration
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dragonix230/dragonix230/output/github-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dragonix230/dragonix230/output/github-pacman.svg" />
-  <img alt="github-pacman" src="https://raw.githubusercontent.com/dragonix230/dragonix230/output/github-pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dragonix230/dragonix230/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dragonix230/dragonix230/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
