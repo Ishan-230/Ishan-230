@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I’m passionate about Cloud Computing, Cybersecur
 
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dragonix230&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ishan's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonix230&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dragonix230&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ishan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonix230&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </div>
 
 ---
