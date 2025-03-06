@@ -4,14 +4,14 @@
 
 ![Welcome](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-Welcome to my GitHub profile! I’m passionate about Cloud Computing, Cybersecurity, and IT Support. Here, you’ll find a collection of my projects, certifications, and contributions across various tech fields.
+Welcome to my GitHub profile! I’m passionate about Cloud Computing, Cybersecurity, and Developer. Here, you’ll find a collection of my projects, certifications, and contributions across various tech fields.
 
 ---
 
 ## 📈 **Profile Stats**
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dragonix230&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ishan's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonix230&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishan-230&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ishan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-230&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -87,8 +87,8 @@ Feel free to reach out if you'd like to discuss tech, projects, or collaboration
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dragonix230/dragonix230/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dragonix230/dragonix230/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishan-230/Ishan-230/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishan-230/Ishan-230/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
