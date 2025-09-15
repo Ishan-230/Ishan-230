@@ -43,19 +43,6 @@ Welcome to my GitHub profile! I’m passionate about Cloud Computing, Cybersecur
 
 ---
 
-## 🌟 **Featured Projects**
-
-### 🚀 [Blockchain-Powered Cloud Storage System](#) &ensp;![Status](https://img.shields.io/badge/Status-In_Progress-brightgreen)
-A decentralized storage system using blockchain for secure data distribution, integrity, and redundancy.
-
-### ✅ [Task Manager Web Application](#) &ensp;![Status](https://img.shields.io/badge/Status-Completed-blue)
-A Django-based app for managing tasks with CRUD operations, user authentication, and filtering. Currently exploring Docker for deployment.
-
-### 🔐 [IAM Job Simulation](#) &ensp;![Status](https://img.shields.io/badge/Status-Completed-blue)
-Developed IAM solutions during a job simulation at TCS, collaborating with a cybersecurity team.
-
----
-
 ## 🏆 **Achievements**
 - **Google Cybersecurity Professional Certification** – Achieved in October 2024
 - Selected for **Cybersecurity and Data Science Internship at Prodigy InfoTech**
